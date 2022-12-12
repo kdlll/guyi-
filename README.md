@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+本项目是基于vue2.0框架及ant-design ui设计，使用的技术栈包括vue vuex echarts ant-desgin mock vue-router
 npm install
 ```
 
